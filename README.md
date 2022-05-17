@@ -32,7 +32,7 @@ We provide two applications:
 
 ### ***Apprendiz***
 
-Generates the TAN (Bayesian Network) that maximizes the likelihood of the data provided
+Generates the TAN (Bayesian Network) that maximizes the likelihood of the data provided.
 This data must be provided as a *.csv* file. 
 The end product of this application will be saved as a *.ser* file.
 
