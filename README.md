@@ -39,5 +39,3 @@ The end product of this application will be saved as a *.ser* file.
 ### ***DrHouse***
 
 Classifies a sample provided by the user. This sample must consist of integers separated by commas. This classification is made considering the Bayesian Network that is input to this application.
-
-
